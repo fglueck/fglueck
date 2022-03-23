@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 [![dozent.net](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://dozent.net/)
 
-[![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=fglueck&show_icons=true&theme=gruvbox)](https://github.com/fglueck/github-readme-stats)
+[![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=fglueck&show_icons=true&theme=gruvbox&locale=de)](https://github.com/fglueck/github-readme-stats)
 
 [![Frank's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fglueck&theme=blue-green)](https://github.com/fglueck/github-readme-stats)
