@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=fglueck&show_icons=true&theme=gruvbox&locale=de&bg_color=45,000000,441111&hide_border=1)](https://github.com/fglueck/github-readme-stats)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-[![Frank's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fglueck&theme=blue-green&bg_color=90,000000,441111&hide_border=1)](https://github.com/fglueck/github-readme-stats)
+[![Frank's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fglueck&theme=blue-green&bg_color=135,000000,441111&hide_border=1)](https://github.com/fglueck/github-readme-stats)
