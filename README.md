@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![dozent.net](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://dozent.net/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fglueck)](https://github.com/anuraghazra/github-readme-stats)
