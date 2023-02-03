@@ -1,4 +1,6 @@
-### Hi there 👋
+### Profile
+# Frank Glück
+Developing, Training & Consulting
 
 <!--
 **fglueck/fglueck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![dozent.net](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://dozent.net/)
+www.dozent.net [![dozent.net](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://dozent.net/)
 
-[![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=fglueck&show_icons=true&theme=gruvbox&locale=de&bg_color=45,000000,441111&hide_border=1)](https://github.com/fglueck/github-readme-stats)
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-[![Frank's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fglueck&theme=blue-green&bg_color=135,000000,441111&hide_border=1&langs_count=10)](https://github.com/fglueck/github-readme-stats)
-
-
-[![user:2761747's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/2761747?theme=dark&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
 
 # Experiences since
 |Product           |Training      |Development   |
@@ -32,3 +27,13 @@ Here are some ideas to get you started:
 |Reporting Services|2005          |2004          |
 |Javascript        |1996          |1996          |
 |SQL               |1996          |1992          |
+
+and much more...
+
+[![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=fglueck&show_icons=true&theme=gruvbox&locale=de&bg_color=45,000000,441111&hide_border=1)](https://github.com/fglueck/github-readme-stats)
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+[![Frank's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fglueck&theme=blue-green&bg_color=135,000000,441111&hide_border=1&langs_count=10)](https://github.com/fglueck/github-readme-stats)
+
+
+[![user:2761747's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/2761747?theme=dark&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
