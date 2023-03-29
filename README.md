@@ -27,6 +27,7 @@ www.dozent.net [![dozent.net](https://img.shields.io/website-up-down-green-red/h
 |Reporting Services|2005          |2004          |
 |Javascript        |1996          |1996          |
 |SQL               |1996          |1992          |
+|PHP               |2000          |1998          |
 
 and much more...
 
