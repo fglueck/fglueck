@@ -20,7 +20,7 @@ www.dozent.net [![dozent.net](https://img.shields.io/website-up-down-green-red/h
 
 
 # Experiences since
-|Product           |Training courses |Development   |
+|Product           |Instructor    |Development   |
 |------------------|--------------|--------------|
 |PostgreSQL        |2000          |1998          |
 |SQL Server        |2005          |2005          |
