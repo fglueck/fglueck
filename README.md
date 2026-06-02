@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 |SQL               |1996          |1992          |
 |PHP               |2000          |1998          |
 |C/C++             |1995          |1986          |
+|AI/KI             |2026          |2025          |
 
 and much more...
 
