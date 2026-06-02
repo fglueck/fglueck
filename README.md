@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-www.dozent.net [![dozent.net](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://dozent.net/)
-
+www.dozent.net [![dozent.net](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dozent.net/)
+www.inside-filings.com [![inside-filings.com](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://inside-filings.com/)
+www.ibou.net [![ibou.net](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ibou.net/)
 
 # Experiences since
 |Product           |Instructor    |Development   |
