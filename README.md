@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [inside-filings.com ![inside-filings.com](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://inside-filings.com/)
 
-[ibou.net ![ibou.net](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ibou.net/)
+[![ibou.net](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) ibou.net](https://ibou.net/)
 
 # Experiences since
 |Product           |Instructor    |Development   |
