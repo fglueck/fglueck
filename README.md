@@ -1,45 +1,53 @@
-### Profile
 # Frank Glück
-IT-Trainer & Entwickler aus Leverkusen — SQL Server, PostgreSQL, PHP, KI
+### IT-Trainer, Entwickler & Berater aus Leverkusen — SQL Server, PostgreSQL, PHP, KI
 
-<!--
-**fglueck/fglueck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Über 40 Jahre Erfahrung in Softwareentwicklung, Datenbank-Architektur und IT-Training.
+Ich helfe Unternehmen, aus Datenchaos eine klare Entscheidungsgrundlage zu machen —
+als Entwickler, Berater und Dozent.
 
-Here are some ideas to get you started:
+**Kernthemen:** SQL Server (SSRS/SSAS/T-SQL) · PostgreSQL-Administration & -Migration ·
+PHP/JavaScript-Entwicklung · KI-gestützte Projektumsetzung
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![dozent.net](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) dozent.net](https://dozent.net/)
+📚 Seminare, Coaching, Beratung & Entwicklung: **[dozent.net](https://dozent.net/)**
+📊 Live-Marktdatenanalyse (eigenes Produkt): **[inside-filings.com](https://inside-filings.com/)**
+🌐 Hosting, DNS & DynDNS: **[ibou.net](https://ibou.net/)**
 
-[![inside-filings.com](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) inside-filings.com](https://inside-filings.com/)
+---
 
-[![ibou.net](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) ibou.net](https://ibou.net/)
+### Erfahrung seit
 
-# Experiences since
-|Product           |Instructor    |Development   |
-|------------------|--------------|--------------|
-|PostgreSQL        |2000          |1998          |
-|SQL Server        |2005          |2005          |
-|Reporting Services|2005          |2004          |
-|Javascript        |1996          |1996          |
-|SQL               |1996          |1992          |
-|PHP               |2000          |1998          |
-|C/C++             |1995          |1986          |
-|AI/KI             |2026          |2025          |
+| Bereich | Als Dozent seit | In der Entwicklung seit |
+|---|:---:|:---:|
+| PostgreSQL | 2000 | 1998 |
+| SQL Server | 2005 | 2005 |
+| Reporting Services | 2005 | 2004 |
+| SQL | 1996 | 1992 |
+| PHP | 2000 | 1998 |
+| JavaScript | 1996 | 1996 |
+| C/C++ | 1995 | 1986 |
+| KI/AI | 2026 | 2025 |
 
-and much more...
+... und mehr unter [dozent.net/seminare](https://dozent.net/seminare).
 
-[![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=fglueck&show_icons=true&theme=gruvbox&locale=de&bg_color=45,000000,441111&hide_border=1)](https://github.com/fglueck/github-readme-stats)
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+### Eigene Produkte
 
-[![Frank's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fglueck&theme=blue-green&bg_color=135,000000,441111&hide_border=1&langs_count=10)](https://github.com/fglueck/github-readme-stats)
+| | |
+|---|---|
+| 🗃️ **[BackSwift](https://dozent.net/produkte/backswift)** | Schlankes Datei-Backup mit ZIP/AES für Windows, Linux und macOS |
+| ⚙️ **[ugnaz](https://dozent.net/produkte/ugnaz)** | Modulare Business-Plattform für digitale Projekte |
+| 📊 **[Report-Engine](https://dozent.net/produkte/report-engine)** | Live-Datenanalyse-Engine im produktiven Einsatz |
+| 📄 **[DocuDown](https://dozent.net/produkte/docudown)** | *(Kurzbeschreibung ergänzen)* |
+| 🏷️ **[SSRS Barcode/QRCode Custom Report Item](https://dozent.net/produkte/ssrs-barcode-qrcode-custom-report-item)** | Barcode-/QR-Code-Erweiterung für SQL Server Reporting Services |
 
+### Tech-Stack
 
-[![user:2761747's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/2761747?theme=dark&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+### Kontakt
+
+[![Website](https://img.shields.io/badge/Website-dozent.net-2563eb?style=flat)](https://dozent.net/)
+[![Stack Overflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/2761747?theme=dark&website=true&location=true)](https://stackoverflow.com/users/2761747)
