@@ -1,6 +1,6 @@
 ### Profile
 # Frank Glück
-Developing, Training & Consulting
+IT-Trainer & Entwickler aus Leverkusen — SQL Server, PostgreSQL, PHP, KI
 
 <!--
 **fglueck/fglueck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
