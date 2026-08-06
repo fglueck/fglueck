@@ -36,7 +36,7 @@ PHP/JavaScript-Entwicklung · KI-gestützte Projektumsetzung
 | 🗃️ **[BackSwift](https://dozent.net/produkte/backswift)** | Schlankes Datei-Backup mit ZIP/AES für Windows, Linux und macOS |
 | ⚙️ **[ugnaz](https://dozent.net/produkte/ugnaz)** | Modulare Business-Plattform für digitale Projekte |
 | 📊 **[Report-Engine](https://dozent.net/produkte/report-engine)** | Live-Datenanalyse-Engine im produktiven Einsatz |
-| 📄 **[DocuDown](https://dozent.net/produkte/docudown)** | *(Kurzbeschreibung ergänzen)* |
+| 📄 **[DocuDown](https://dozent.net/produkte/docudown)** | Automatisches Sammeln von Kontoauszügen, Rechnungen & Belegen aus Banken, Versicherungen und Shops — lokal AES-256-verschlüsselt, ohne manuelles Portal-Login |
 | 🏷️ **[SSRS Barcode/QRCode Custom Report Item](https://dozent.net/produkte/ssrs-barcode-qrcode-custom-report-item)** | Barcode-/QR-Code-Erweiterung für SQL Server Reporting Services |
 
 ### Tech-Stack
