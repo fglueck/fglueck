@@ -7,9 +7,15 @@ als Entwickler, Berater und Dozent.
 
 **Kernthemen:** [SQL Server](https://dozent.net/seminare/datenbanken/sql-server) (SSRS/SSAS/T-SQL) · [PostgreSQL-Administration](https://dozent.net/seminare/postgresql/postgresql-administration), [Performance Tuning](https://dozent.net/seminare/postgresql/postgresql-performance-tuning) & [Migration](https://dozent.net/seminare/postgresql/migration/migration-von-oracle-zu-postgresql) · PHP/JavaScript-Entwicklung · KI-gestützte Projektumsetzung
 
-📚 Seminare, Coaching, Beratung & Entwicklung: **[dozent.net](https://dozent.net/)**
-📊 Live-Marktdatenanalyse (eigenes Produkt): **[inside-filings.com](https://inside-filings.com/)**
+📚 Seminare, Coaching, Beratung & Entwicklung: **[dozent.net](https://dozent.net/)**  
+📊 Referenzprojekt Live-Marktdatenanalyse: **[inside-filings.com](https://inside-filings.com/)**  
 🌐 Hosting, DNS & DynDNS: **[ibou.net](https://ibou.net/)**
+
+---
+
+### 📊 Referenzprojekt: Inside Filings
+
+**[Inside Filings (inside-filings.com)](https://inside-filings.com/)** — Plattform für automatisierte Live-Marktdatenanalyse und SEC-Filing-Intelligence. Aggregiert und analysiert in Echtzeit Insider-Transaktionen (Form 4), institutionelle Portfolios (13F), Kongress-Trades und signifikante Beteiligungen (13D/G). Ein Praxisbeispiel für Big-Data-Verarbeitung, performante relationale Datenstrukturen und automatisierte Datenextraktion.
 
 ---
 
@@ -26,19 +32,30 @@ als Entwickler, Berater und Dozent.
 | C/C++ | 1995 | 1986 |
 | KI/AI | 2026 | 2025 |
 
-... und mehr unter [dozent.net/seminare](https://dozent.net/seminare).
+... und mehr Schulungs- und Migrationsangebote unter [dozent.net/seminare](https://dozent.net/seminare).
 
-### Eigene Produkte & Open-Source-Tools
+---
+
+### 📦 Eigene Produkte & Business-Software
 
 | | |
 |---|---|
-| ⚡ **[PostgreSQL Konfigurator](https://dozent.net/produkte/postgresql-konfigurator)** | Interaktiver Tuning-Rechner für hardware-optimierte `postgresql.conf`- und `sysctl`-Parameter (RAM-Sizing, work_mem, Checkpoints, HugePages) |
-| 🐘 **[pg-clusterbackup](https://github.com/glueck-it/pg-clusterbackup)** | Vollautomatisches Backup aller Datenbanken aller laufenden PostgreSQL-Instanzen/Cluster in einem Job (Linux & Windows) |
-| 🗃️ **[BackSwift](https://dozent.net/produkte/backswift)** | Schlankes Datei-Backup mit ZIP/AES für Windows, Linux und macOS |
-| ⚙️ **[ugnaz](https://dozent.net/produkte/ugnaz)** | Modulare Business-Plattform für digitale Projekte |
+| 🏷️ **[SSRS Barcode/QRCode Custom Report Item](https://dozent.net/produkte/ssrs-barcode-qrcode-custom-report-item)** | Native Barcode- und 2D-QR-Code-Erweiterung für Microsoft SQL Server Reporting Services (SSRS) |
+| 🗃️ **[BackSwift](https://dozent.net/produkte/backswift)** | Schlankes Datei-Backup mit ZIP/AES-256 für Windows, Linux und macOS |
+| ⚙️ **[ugnaz Plattform](https://dozent.net/produkte/ugnaz)** | Modulare Enterprise Business-Software & Web-Plattform |
 | 📊 **[Report-Engine](https://dozent.net/produkte/report-engine)** | Live-Datenanalyse-Engine im produktiven Einsatz |
-| 📄 **[DocuDown](https://dozent.net/produkte/docudown)** | Automatisches Sammeln von Kontoauszügen, Rechnungen & Belegen aus Banken, Versicherungen und Shops — lokal AES-256-verschlüsselt, ohne manuelles Portal-Login |
-| 🏷️ **[SSRS Barcode/QRCode Custom Report Item](https://dozent.net/produkte/ssrs-barcode-qrcode-custom-report-item)** | Barcode-/QR-Code-Erweiterung für SQL Server Reporting Services |
+| 📄 **[DocuDown](https://dozent.net/produkte/docudown)** | Automatisches Sammeln von Kontoauszügen, Rechnungen & Belegen aus Portalen — lokal AES-256-verschlüsselt |
+
+---
+
+### 🛠️ Kostenlose Web-Tools & Open Source
+
+| | |
+|---|---|
+| ⚡ **[PostgreSQL Konfigurator](https://dozent.net/produkte/postgresql-konfigurator)** | *(Kostenloses Web-Tool)* Interaktiver Tuning-Rechner für hardware-optimierte `postgresql.conf`- und `sysctl`-Parameter (RAM-Sizing, work_mem, Checkpoints, HugePages) |
+| 🐘 **[pg-clusterbackup](https://github.com/glueck-it/pg-clusterbackup)** | *(Open Source, MIT)* Vollautomatisches Backup aller Datenbanken aller laufenden PostgreSQL-Instanzen/Cluster in einem Job (Linux & Windows) |
+
+---
 
 ### Tech-Stack
 
