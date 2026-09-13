@@ -5,8 +5,7 @@
 Ich helfe Unternehmen, aus Datenchaos eine klare Entscheidungsgrundlage zu machen —
 als Entwickler, Berater und Dozent.
 
-**Kernthemen:** SQL Server (SSRS/SSAS/T-SQL) · PostgreSQL-Administration & -Migration ·
-PHP/JavaScript-Entwicklung · KI-gestützte Projektumsetzung
+**Kernthemen:** [SQL Server](https://dozent.net/seminare/datenbanken/sql-server) (SSRS/SSAS/T-SQL) · [PostgreSQL-Administration](https://dozent.net/seminare/postgresql/postgresql-administration), [Performance Tuning](https://dozent.net/seminare/postgresql/postgresql-performance-tuning) & [Migration](https://dozent.net/seminare/postgresql/migration/migration-von-oracle-zu-postgresql) · PHP/JavaScript-Entwicklung · KI-gestützte Projektumsetzung
 
 📚 Seminare, Coaching, Beratung & Entwicklung: **[dozent.net](https://dozent.net/)**
 📊 Live-Marktdatenanalyse (eigenes Produkt): **[inside-filings.com](https://inside-filings.com/)**
@@ -29,10 +28,12 @@ PHP/JavaScript-Entwicklung · KI-gestützte Projektumsetzung
 
 ... und mehr unter [dozent.net/seminare](https://dozent.net/seminare).
 
-### Eigene Produkte
+### Eigene Produkte & Open-Source-Tools
 
 | | |
 |---|---|
+| ⚡ **[PostgreSQL Konfigurator](https://dozent.net/produkte/postgresql-konfigurator)** | Interaktiver Tuning-Rechner für hardware-optimierte `postgresql.conf`- und `sysctl`-Parameter (RAM-Sizing, work_mem, Checkpoints, HugePages) |
+| 🐘 **[pg-clusterbackup](https://github.com/glueck-it/pg-clusterbackup)** | Vollautomatisches Backup aller Datenbanken aller laufenden PostgreSQL-Instanzen/Cluster in einem Job (Linux & Windows) |
 | 🗃️ **[BackSwift](https://dozent.net/produkte/backswift)** | Schlankes Datei-Backup mit ZIP/AES für Windows, Linux und macOS |
 | ⚙️ **[ugnaz](https://dozent.net/produkte/ugnaz)** | Modulare Business-Plattform für digitale Projekte |
 | 📊 **[Report-Engine](https://dozent.net/produkte/report-engine)** | Live-Datenanalyse-Engine im produktiven Einsatz |
