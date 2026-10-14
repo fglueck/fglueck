@@ -1,21 +1,24 @@
 # Frank Glück
 ### IT-Trainer, Entwickler & Berater aus Leverkusen — SQL Server, PostgreSQL, PHP, KI
 
-Über 40 Jahre Erfahrung in Softwareentwicklung, Datenbank-Architektur und IT-Training.
+Softwareentwicklung seit 1986, Datenbanken und IT-Training seit über 30 Jahren.
 Ich helfe Unternehmen, aus Datenchaos eine klare Entscheidungsgrundlage zu machen —
 als Entwickler, Berater und Dozent.
 
-**Kernthemen:** [SQL Server](https://dozent.net/seminare/datenbanken/sql-server) (SSRS/SSAS/T-SQL) · [PostgreSQL-Administration](https://dozent.net/seminare/postgresql/postgresql-administration), [Performance Tuning](https://dozent.net/seminare/postgresql/postgresql-performance-tuning) & [Migration](https://dozent.net/seminare/postgresql/migration/migration-von-oracle-zu-postgresql) · PHP/JavaScript-Entwicklung · KI-gestützte Projektumsetzung
+**Kernthemen:** [SQL Server](https://dozent.net/seminare/sql-server/) (SSRS/SSAS/T-SQL) · [PostgreSQL-Administration](https://dozent.net/seminare/postgresql/postgresql-administration), [Performance Tuning](https://dozent.net/seminare/postgresql/postgresql-performance-tuning) & [Migration](https://dozent.net/seminare/postgresql/migration/migration-von-oracle-zu-postgresql) · PHP/JavaScript-Entwicklung · KI-gestützte Projektumsetzung
 
+📊 Berichtssystem für den eigenen Server: **[Databula Reporting](https://databula.de/)**  
 📚 Seminare, Coaching, Beratung & Entwicklung: **[dozent.net](https://dozent.net/)**  
-📊 Referenzprojekt Live-Marktdatenanalyse: **[inside-filings.com](https://inside-filings.com/)**  
-🌐 Hosting, DNS & DynDNS: **[ibou.net](https://ibou.net/)**
+📈 Referenzprojekt Marktdatenanalyse: **[inside-filings.com](https://inside-filings.com/)**  
+🎓 Online-Prüfungen für IT-Seminare: **[skilltest.de](https://skilltest.de/)**  
+🌐 Hosting, DNS & DynDNS: **[ibou.net](https://ibou.net/)**  
+🏢 Glück IT: **[glueck.it](https://glueck.it/)**
 
 ---
 
 ### 📊 Referenzprojekt: Inside Filings
 
-**[Inside Filings (inside-filings.com)](https://inside-filings.com/)** — Plattform für automatisierte Live-Marktdatenanalyse und SEC-Filing-Intelligence. Aggregiert und analysiert in Echtzeit Insider-Transaktionen (Form 4), institutionelle Portfolios (13F), Kongress-Trades und signifikante Beteiligungen (13D/G). Ein Praxisbeispiel für Big-Data-Verarbeitung, performante relationale Datenstrukturen und automatisierte Datenextraktion.
+**[Inside Filings (inside-filings.com)](https://inside-filings.com/)** — Plattform für automatisierte Marktdatenanalyse und SEC-Filing-Intelligence. Wertet laufend Insider-Transaktionen (Form 4), institutionelle Portfolios (13F), Kongress-Trades und signifikante Beteiligungen (13D/G) aus. Ein Praxisbeispiel für große Datenmengen, performante relationale Datenstrukturen und automatisierte Datenextraktion; die Pivot-Auswertungen und Exporte laufen auf [Databula Reporting](https://databula.de/).
 
 ---
 
@@ -25,7 +28,7 @@ als Entwickler, Berater und Dozent.
 |---|:---:|:---:|
 | PostgreSQL | 2000 | 1998 |
 | SQL Server | 2005 | 2005 |
-| Reporting Services | 2005 | 2004 |
+| Reporting Services | 2005 | 2003 (erste öffentliche Beta) |
 | SQL | 1996 | 1992 |
 | PHP | 2000 | 1998 |
 | JavaScript | 1996 | 1996 |
@@ -40,6 +43,7 @@ als Entwickler, Berater und Dozent.
 
 | | |
 |---|---|
+| 📊 **[Databula Reporting](https://databula.de/)** | Berichtssystem für den eigenen Server: Berichte und KPI-Dashboards im Browser gestalten, im Portal veröffentlichen und automatisch an viele Empfänger verteilen — eine [Alternative zu SSRS](https://databula.de/umstieg/ssrs-alternative), [ohne Cloud](https://databula.de/funktionen/reporting-ohne-cloud) |
 | 🏷️ **[SSRS Barcode/QRCode Custom Report Item](https://dozent.net/produkte/ssrs-barcode-qrcode-custom-report-item)** | Native Barcode- und 2D-QR-Code-Erweiterung für Microsoft SQL Server Reporting Services (SSRS) |
 | 🗃️ **[BackSwift](https://dozent.net/produkte/backswift)** | Schlankes Datei-Backup mit ZIP/AES-256 für Windows, Linux und macOS |
 | ⚙️ **[ugnaz Plattform](https://dozent.net/produkte/ugnaz)** | Modulare Enterprise Business-Software & Web-Plattform |
@@ -67,5 +71,8 @@ als Entwickler, Berater und Dozent.
 
 ### Kontakt
 
-[![Website](https://img.shields.io/badge/Website-dozent.net-2563eb?style=flat)](https://dozent.net/)
+[![Website dozent.net](https://img.shields.io/badge/Website-dozent.net-2563eb?style=flat)](https://dozent.net/)
+[![Produkt databula.de](https://img.shields.io/badge/Produkt-databula.de-2563eb?style=flat)](https://databula.de/)
+
+⚖️ [Impressum](https://glueck.it/footer/impressum)
 [![Stack Overflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/2761747?theme=dark&website=true&location=true)](https://stackoverflow.com/users/2761747)
