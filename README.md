@@ -47,7 +47,7 @@ als Entwickler, Berater und Dozent.
 | 🏷️ **[SSRS Barcode/QRCode Custom Report Item](https://dozent.net/produkte/ssrs-barcode-qrcode-custom-report-item)** | Native Barcode- und 2D-QR-Code-Erweiterung für Microsoft SQL Server Reporting Services (SSRS) |
 | 🗃️ **[BackSwift](https://dozent.net/produkte/backswift)** | Schlankes Datei-Backup mit ZIP/AES-256 für Windows, Linux und macOS |
 | ⚙️ **[ugnaz Plattform](https://dozent.net/produkte/ugnaz)** | Modulare Enterprise Business-Software & Web-Plattform |
-| 📊 **[Report-Engine](https://dozent.net/produkte/report-engine)** | Live-Datenanalyse-Engine im produktiven Einsatz |
+| 🧮 **[Report-Engine](https://dozent.net/produkte/report-engine)** | Pivot-, Tabellen- und Diagramm-Engine, auf der Databula Reporting und inside-filings.com laufen — der Artikel zeigt sie live mit echten SEC-Daten |
 | 📄 **[DocuDown](https://dozent.net/produkte/docudown)** | Automatisches Sammeln von Kontoauszügen, Rechnungen & Belegen aus Portalen — lokal AES-256-verschlüsselt |
 
 ---
