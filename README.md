@@ -58,6 +58,7 @@ als Entwickler, Berater und Dozent.
 |---|---|
 | ⚡ **[PostgreSQL Konfigurator](https://dozent.net/produkte/postgresql-konfigurator)** | *(Kostenloses Web-Tool)* Interaktiver Tuning-Rechner für hardware-optimierte `postgresql.conf`- und `sysctl`-Parameter (RAM-Sizing, work_mem, Checkpoints, HugePages) |
 | 🐘 **[pg-clusterbackup](https://github.com/glueck-it/pg-clusterbackup)** | *(Open Source, MIT)* Vollautomatisches Backup aller Datenbanken aller laufenden PostgreSQL-Instanzen/Cluster in einem Job (Linux & Windows) |
+| 🛡️ **[pg-harden](https://github.com/glueck-it/pg-harden)** | *(Open Source, MIT)* Sicherheitsprüfung und Härtung für PostgreSQL 14–19: 72 Regeln für `postgresql.conf`, `pg_hba.conf`, TLS, Passwörter, Rollen und Rechte, Änderungsplan mit Rückweg (PHP) |
 
 ---
 
